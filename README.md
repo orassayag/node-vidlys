@@ -1,4 +1,4 @@
-# Server
+# Node Vidlys
 
 Built in November 2018. Different tests and workflows of 'The Complete ASP.NET MVC 5 Course' course by Mosh Hamedani.
 
@@ -8,7 +8,7 @@ Clone the project to your computer.
 
 ### Prerequisites
 
-You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL management studio).
+You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL Management Studio).
 
 ## Built With
 
